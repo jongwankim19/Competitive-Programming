@@ -1,1 +1,3 @@
-# Competitive-Programming
+### Competitive Programming
+
+Implementations, data structures, demos, etc...
